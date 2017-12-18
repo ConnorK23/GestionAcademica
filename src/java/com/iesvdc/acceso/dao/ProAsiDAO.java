@@ -14,7 +14,7 @@ import java.util.List;
  * @author Jesus & Juan Isaac
  */
 public interface ProAsiDAO {
-    public List<Profesor> findByProfesor(String profesor) throws DAOException;
+    public List<Profesor> findByProfesor(Integer profesor) throws DAOException;
 
-    public List<Asignatura> findByAsignatura(String asignatura) throws DAOException;
+    public List<Asignatura> findByAsignatura(Integer asignatura) throws DAOException;
 }

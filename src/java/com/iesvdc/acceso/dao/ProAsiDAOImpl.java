@@ -16,13 +16,12 @@ import java.util.List;
 public class ProAsiDAOImpl implements ProAsiDAO {
 
     @Override
-    public List<Profesor> findByProfesor(String profesor) throws DAOException {
+    public List<Profesor> findByProfesor(Integer profesor) throws DAOException {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public List<Asignatura> findByAsignatura(String asignatura) throws DAOException {
+    public List<Asignatura> findByAsignatura(Integer asignatura) throws DAOException {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
-    
 }

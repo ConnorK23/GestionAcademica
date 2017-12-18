@@ -16,13 +16,12 @@ import java.util.List;
 public class AsiAluDAOImpl implements AsiAluDAO {
 
     @Override
-    public List<Alumno> findByAlumno(String alumno) throws DAOException {
+    public List<Alumno> findByAlumno(Integer alumno) throws DAOException {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public List<Asignatura> findByAsignatura(String asignatura) throws DAOException {
+    public List<Asignatura> findByAsignatura(Integer asignatura) throws DAOException {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
-    
 }
