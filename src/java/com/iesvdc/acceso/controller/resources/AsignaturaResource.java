@@ -19,7 +19,7 @@ import javax.ws.rs.core.MediaType;
 
 /**
  *
- * @author Jesus & Juan Isaac
+ * @author Jesus_y_Juan_Isaac
  */
 @Path("/asignatura")
 public class AsignaturaResource {

@@ -12,7 +12,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 /**
  *
- * @author Jesus & Juan Isaac
+ * @author Jesus_y_Juan_Isaac
  */
 @XmlRootElement(name = "profesor")
 @XmlAccessorType(XmlAccessType.FIELD)

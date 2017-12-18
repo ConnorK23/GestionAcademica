@@ -7,7 +7,7 @@ package com.iesvdc.acceso.pojo;
 
 /**
  *
- * @author Jesus & Juan Isaac
+ * @author Jesus_y_Juan_Isaac
  */
 public class AluAsi {
 

@@ -3,7 +3,7 @@ package com.iesvdc.acceso.pojo;
 
 /**
  * Esta clase nos ayuda a identificar usuarios y grupos en la base de datos.
- * @author Jesus & Juan Isaac
+ * @author Jesus_y_Juan_Isaac
  */
 public class Usuario {
     static public int ADMIN = 0; // usuarios con privilegios
