@@ -15,7 +15,7 @@ import java.util.Properties;
 /**
  * jdbc:DRIVER://HOST:PORT/DATABASE_NAME y usuario y contraseña
  *
- * @author profesor
+ * @author Jesus & Juan Isaac
  */
 public class Conexion {
 

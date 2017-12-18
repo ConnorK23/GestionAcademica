@@ -19,7 +19,7 @@ import java.util.List;
 
 /**
  *
- * @author profesor
+ * @author Jesus & Juan Isaac
  */
 public class AlumnoDAOImpl implements AlumnoDAO {
 

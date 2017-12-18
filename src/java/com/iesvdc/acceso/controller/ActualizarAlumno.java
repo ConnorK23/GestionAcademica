@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author profesor
+ * @author Jesus & Juan Isaac
  */
 public class ActualizarAlumno extends HttpServlet {
 

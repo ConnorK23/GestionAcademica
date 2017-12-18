@@ -7,7 +7,7 @@ package com.iesvdc.acceso.dao;
 
 /**
  *
- * @author profesor
+ * @author Jesus & Juan Isaac
  */
 public class DAOException extends Exception {
 

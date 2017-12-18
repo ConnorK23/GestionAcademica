@@ -19,7 +19,7 @@ import java.util.List;
 
 /**
  *
- * @author Juangu <jgutierrez at iesvirgendelcarmen.coms>
+ * @author Jesus & Juan Isaac
  */
 public class AsignaturaDAOImpl implements AsignaturaDAO {
 

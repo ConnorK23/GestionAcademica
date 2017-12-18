@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author profesor
+ * @author Jesus & Juan Isaac
  */
 public interface AlumnoDAO {
 

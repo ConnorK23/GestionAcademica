@@ -22,7 +22,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Juangu <jgutierrez at iesvirgendelcarmen.coms>
+ * @author Jesus & Juan Isaac
  */
 @WebServlet({"/AlumnoRead"})
 public class LeerAlumno extends HttpServlet {

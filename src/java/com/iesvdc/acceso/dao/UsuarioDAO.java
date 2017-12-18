@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author Juangu <jgutierrez at iesvirgendelcarmen.coms>
+ * @author Jesus & Juan Isaac
  */
 public interface UsuarioDAO {
     public void create(Usuario us) throws DAOException;

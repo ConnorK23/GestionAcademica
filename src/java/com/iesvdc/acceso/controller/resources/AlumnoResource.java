@@ -25,7 +25,7 @@ import javax.ws.rs.core.Response;
 
 /**
  *
- * @author Juangu <jgutierrez at iesvirgendelcarmen.coms>
+ * @author Jesus & Juan Isaac
  */
 @Path("/")
 public class AlumnoResource {

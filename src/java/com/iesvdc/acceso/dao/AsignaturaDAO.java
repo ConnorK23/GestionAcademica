@@ -14,7 +14,7 @@ import java.util.List;
 
 /**
  *
- * @author profesor
+ * @author Jesus & Juan Isaac
  */
 public interface AsignaturaDAO {
     void create(Asignatura as) throws DAOException;
